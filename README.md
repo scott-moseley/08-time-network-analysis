@@ -15,7 +15,7 @@ You should aim to understand:
 
 ## Pre-session Reading & Resources
 
-We will use python notebooks exercises on different datasets to have a practical go on the discussed methods in practise. Have a go and check if everything is running on your machine before the class. The *environment.yml* provided for this week will install python 3.5 and GDAL on your machine.  
+We will use python notebooks exercises on different datasets to have a practical go on the discussed methods in practise. Have a go and check if everything is running on your machine before the class. The environment provided for this week will install python 3.5 and GDAL on your machine.  Please, use *environment_mac.yml* if you use Mac and *environment_win.yml* if you use Windows.
 
 Note: python 3.6 may not work well on Windows machines and GDAL has also some problems with this more recent python version.  
 
