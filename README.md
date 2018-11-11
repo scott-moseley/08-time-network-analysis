@@ -1,4 +1,4 @@
-# Core skills program - week 9 - Special Data Types
+# Core skills program - week 9 - Special Data Types: Networks and time series
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/08-time-network-analysis.git/master)
 
