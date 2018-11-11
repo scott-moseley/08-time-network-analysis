@@ -19,7 +19,7 @@ We will use python notebooks exercises on different datasets to have a practical
 
 Note: python 3.6 may not work well on Windows machines and GDAL has also some problems with this more recent python version.  
 
-For the complex network analysis, we will use **networkx**. You can find the documentation of  this package [here](]https://networkx.github.io). 
+For the complex network analysis, we will use **networkx**. You can find the documentation of  this package [here](https://networkx.github.io). 
 
 To work on the available industry datasets provided for this week, we need to be able to read *.shp* files, and for that we will use the GDAL (Geospatial Data Abstraction Library) library - you can reading about it [here](https://www.gdal.org). 
 
