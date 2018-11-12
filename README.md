@@ -1,4 +1,4 @@
-# Core skills program - week 9 - Special Data Types: Networks and time series
+# Core skills program - week 9 - Special Data Types: Networks and Time series
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/08-time-network-analysis.git/master)
 
@@ -27,7 +27,18 @@ Stack Overflow is a useful website to find solutions for when you get stuck with
 https://stackoverflow.com/questions/tagged/networkx
 https://stackoverflow.com/questions/tagged/gdal.
 
-**References and Pre-reading**:
+**Pre-reading**:
+
+These are suggested pre-reading before the final case study of the day (session 4).
+
+The Conversation:
+**How tracking people moving together through time creates powerful data:**
+[https://theconversation.com/how-tracking-people-moving-together-through-time-creates-powerful-data-103841](https://theconversation.com/how-tracking-people-moving-together-through-time-creates-powerful-data-103841)
+
+**What it means when scientists say their results are ‘significant’:**
+[https://theconversation.com/what-it-means-when-scientists-say-their-results-are-significant-103329](https://theconversation.com/what-it-means-when-scientists-say-their-results-are-significant-103329)
+
+**References**:
 
 Genetic Algorithms with Python - Clinton Sheppard.
 Source code from the book: https://github.com/handcraftsman/GeneticAlgorithmsWithPython
